@@ -1,0 +1,44 @@
+1
+00:00:03,040 --> 00:00:11,040
+pour tout le monde comment nous pouvons obtenir API et ouvert J'aller d'abord à ce site Web
+
+2
+00:00:11,040 --> 00:00:19,120
+puis puis vous pouvez trouver votre API secret sur ce lien cliquez
+
+3
+00:00:19,120 --> 00:00:24,040
+ici, attendez un
+
+4
+00:00:24,040 --> 00:00:36,800
+deuxième oui vous devez avoir uh et ouvrir un compte ou vous devriez créer un
+
+5
+00:00:36,800 --> 00:00:49,560
+account I have account now I'm Ling with my account yeah here and after
+
+6
+00:00:49,560 --> 00:01:02,240
+que le mot de passe inter clique ensuite
+
+7
+00:01:02,240 --> 00:01:13,760
+continuer ici créer une API pour accéder à l'AP ouverte OK créer une nouvelle
+
+8
+00:01:13,760 --> 00:01:36,880
+un projet comme celui-ci n'a pas d'importance projet projet projet par défaut secret du projet K c'est
+
+9
+00:01:36,880 --> 00:01:48,640
+Votre AP ik vous pouvez utiliser votre projet et utiliser sur d’autres projets utiliser l’AI uh
+
+10
+00:01:48,640 --> 00:02:00,080
+maintenant uh ouvrir a okay vous devriez p ici et puis vous devriez sauvegarder
+
+11
+00:02:00,080 --> 00:02:10,640
+puis vous pouvez utiliser sur votre projet c'est votre API K merci de regarder ma vidéo ai une belle journée
+
