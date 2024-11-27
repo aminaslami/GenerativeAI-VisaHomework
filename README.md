@@ -1,6 +1,6 @@
 # Generative Artificial Intelligence and Models (GAIM) - Master's Courses
 
-Change your port number, on file Compose.yml
+Change your port number, on file _Compose.yml_
 
 ### Docker simply explained with Machine Learning
 
