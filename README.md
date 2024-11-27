@@ -1,1 +1,1 @@
-# Generative Artificial Intelligence and MOdels (GAIM)
+# Generative Artificial Intelligence and Models (GAIM) - Master's Courses
