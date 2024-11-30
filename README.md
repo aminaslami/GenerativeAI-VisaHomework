@@ -10,7 +10,7 @@
 
 https://youtu.be/L9U_bJ_mCKQ
 
-**captions_french.srt:** It's the result from over project.
+**captions_french.srt:** It's the result from the project.
 
 ------------------------------------------------------------------------------
 Docker simply explained with Machine Learning
