@@ -1,6 +1,6 @@
 # Generative Artificial Intelligence and Models (GAIM) - Master's Courses
 
-### We upload the project Docker version, on Hub-Docker, you can chech the Hub-Docker
+### We upload the project Docker version, on Hub-Docker, you can check the Hub-Docker, I mentioned linke below.
 https://hub.docker.com/repository/docker/232137101/visa-homework-srt-translator/general
 
 --------------------------------------------------------------------------------------
