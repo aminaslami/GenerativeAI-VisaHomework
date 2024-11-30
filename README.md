@@ -14,6 +14,7 @@ https://hub.docker.com/repository/docker/232137101/visa-homework-srt-translator/
 https://youtu.be/L9U_bJ_mCKQ
 
 **captions_french.srt:** It's the result from the project.
+
 ------------------------------------------------------------------------------
 Docker simply explained with Machine Learning
 Youtube Source: https://www.youtube.com/watch?v=-l7YocEQtA0&list=WL&index=7
