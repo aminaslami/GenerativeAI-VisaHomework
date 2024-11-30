@@ -6,7 +6,7 @@
 
 **VisaHomework-AminAslami.ipynb: The code warning is important, please igonore the warning**
 
-captions_english_api_key.srt: Is the subtitle form my video, you can also use this, you can chech the video
+captions_english_api_key.srt: Is the subtitle form my video, you can also use this, you can chech the video below line.
 
 https://youtu.be/L9U_bJ_mCKQ
 
