@@ -1,6 +1,6 @@
 # Generative Artificial Intelligence and Models (GAIM) - Master's Courses
 
-### We upload the project Docker version, on Docker-Hub
+### We upload the project Docker version, on Docker-Hub, you can chech the Docker-Hub
 
 
 **Compose:** Change your port number, on file _Compose.yml_
