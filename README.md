@@ -2,6 +2,7 @@
 
 We upload the project Docker version, on Docker-Hub
 
+---------------------------
 **Compose:** Change your port number, on file _Compose.yml_
 
 **Dockerfile:** Write the necessary library, on file _Dockerfile_
