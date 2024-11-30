@@ -1,11 +1,13 @@
 # Generative Artificial Intelligence and Models (GAIM) - Master's Courses
 
-Change your port number, on file _Compose.yml_
+  Compose: Change your port number, on file _Compose.yml_
 
-### Docker simply explained with Machine Learning
+  Dockerfile: Write the necessary library
+  
+Docker simply explained with Machine Learning
 
-### Youtube Source: https://www.youtube.com/watch?v=-l7YocEQtA0&list=WL&index=7
+Youtube Source: https://www.youtube.com/watch?v=-l7YocEQtA0&list=WL&index=7
 
-### Download Docker: https://www.docker.com/products/docker-desktop/
+Download Docker: https://www.docker.com/products/docker-desktop/
 
 <img width="923" alt="Docker Desktop - Download" src="https://github.com/user-attachments/assets/074bbe50-51c6-4a58-ab1d-d02fb83409a9">
