@@ -6,7 +6,7 @@
 
 **VisaHomework-AminAslami.ipynb: The code warning is important, please igonore the warning**
 
-captions_english_api_key.srt: 
+captions_english_api_key.srt: Is the subtitle form my video, you can also use this.
 
 Docker simply explained with Machine Learning
 
